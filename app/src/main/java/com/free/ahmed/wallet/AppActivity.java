@@ -248,4 +248,8 @@ public class AppActivity extends AppCompatActivity implements TransactionFragmen
             }
         }
     }
+
+    private void testUp(){
+        int i = 1 + 1;
+    }
 }
