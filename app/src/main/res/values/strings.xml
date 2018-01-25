@@ -1,0 +1,42 @@
+<resource>
+    <string name="app_name">Wallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_income_source">new income source+</string>
+    <string name="date">date ></string>
+
+    <string name="summery">summery</string>
+    <string name="account">account</string>
+    <string name="money">money</string>
+    <string name="setting">setting</string>
+
+    <string name="income">income</string>
+    <string name="outcome">outcome</string>
+    <string name="exchange">exchange</string>
+    <string name="zero">00.00</string>
+
+    <string name="summery_hint">Press to see monthly report</string>
+
+    <string name="credit">my credit</string>
+
+    <string name="all">all</string>
+
+    <string name="specification">specification</string>
+    <string name="add_notification">add to notification</string>
+    <string name="save">save</string>
+    <string name="notes_hint">short note</string>
+    <string name="camera_hint">Camera</string>
+    <string name="gallery_hint">Gallery</string>
+    <string name="title_activity_specification">Specifications</string>
+    <string name="title_activity_new_specification">New Specification</string>
+    <string name="new_spec">new specification +</string>
+    <string name="choose_color">choose a color</string>
+    <string name="cancel">cancel</string>
+    <string name="spec_name_hint">Specification name</string>
+    <string name="pick_image_title">Select Image</string>
+    <string name="image_permission_denied">Cannot pick image with out your permission</string>
+    <string name="save_error">Please specify the amount of money</string>
+    <string name="saved">saved</string>
+    <string name="title_activity_date">Pick Month</string>
+    <string name="pdf_report">print pdf report</string>
+    <string name="save_pdf">save pdf</string>
+</resource>
